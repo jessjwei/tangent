@@ -6,7 +6,6 @@ Upload a PDF deck (or load the sample calculus lecture). Tangent listens to the 
 
 ## What it does
 
-- Classes with a flag color, rename, and delete
 - PDF slide upload, text extraction, and page rendering
 - Live transcript via the browser speech API, plus a rehearsal simulation
 - Automatic slide tracking (local match, optional Grok assist)
