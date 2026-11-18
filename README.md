@@ -31,3 +31,5 @@ Slide tracking works offline. Grok assist needs `XAI_API_KEY` in the environment
 
 
 <img width="1023" height="858" alt="Screenshot 2026-11-17 at 8 01 49 PM" src="https://github.com/user-attachments/assets/499e57ec-a14d-41d7-9076-1a3192238c92" />
+https://drive.google.com/drive/folders/1F-TFhHFYGeDgk-LUKeHYNODTPwP1KHx0?usp=sharing
+
