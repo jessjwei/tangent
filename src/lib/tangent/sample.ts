@@ -79,7 +79,7 @@ function drawSlide(number: number, title: string, lines: string[]): string {
 
   ctx.fillStyle = "#0c3c78";
   ctx.font = "600 22px Georgia, serif";
-  ctx.fillText(`CALCULUS  \u00b7  SLIDE ${number}`, 128, 92);
+  ctx.fillText(`CALCULUS  ·  SLIDE ${number}`, 128, 92);
 
   ctx.fillStyle = "#1c1915";
   ctx.font = "650 58px Georgia, serif";
